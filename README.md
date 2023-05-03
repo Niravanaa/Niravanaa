@@ -25,5 +25,4 @@ I'm a Software Engineering major at Concordia University. I love creating user f
 
 ## ⚡ Fun fact
 
-Instead of using a rubber ducky to debug, I use an origami succulent!
-
+Instead of using a rubber ducky to debug my code, I use an origami succulent!
