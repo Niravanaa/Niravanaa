@@ -9,8 +9,8 @@ I'm a Software Engineering major at Concordia University. I love creating user f
 
 ## 🔭 I’m currently working on
 
-- Horror game using the Unity Engine
-- Full-stack web application with a database
+- Writing C# scripts for my Horror game in Unity Engine
+- Automating my school/work by writing Python scripts
 
 ## 💬 Ask me about
 
