@@ -14,7 +14,7 @@ I'm a Software Engineering major at Concordia University. I love creating user f
 
 ## 💬 Ask me about
 
-- Destressing methods whenever debugging code
+- Destressing whenever debugging code
 - The latest/trendy gadgetry on the market
 
 ## 📫 How to reach me
