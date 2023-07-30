@@ -4,18 +4,18 @@ I'm a Software Engineering major at Concordia University. I love creating user f
 
 ## 🌱 I’m currently learning
 
-- React JS to build dynamic web applications
-- Python to develop data-science related projects
+- C# for my upcoming internship at [Genetec](https://www.genetec.com/)
+- Python to automate the little/repetitive things in life
 
 ## 🔭 I’m currently working on
 
-- Writing C# scripts for my Horror game in Unity Engine
-- Automating my school/work by writing Python scripts
+- A horror game built in Unity Engine with a colleague
+- A Minecraft redstone schematic editor with a colleague
 
 ## 💬 Ask me about
 
-- Destressing whenever debugging code
-- The latest/trendy gadgetry on the market
+- Ways to calm down when debugging code
+- The latest/trendy technology on the market
 
 ## 📫 How to reach me
 
