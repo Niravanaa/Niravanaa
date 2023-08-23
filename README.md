@@ -11,6 +11,7 @@ I'm a Software Engineering major at Concordia University. I love creating user f
 
 - A horror game built in Unity Engine with a colleague
 - A Minecraft redstone schematic editor with a colleague
+- School Related One-Day Projects
 
 ## 💬 Ask me about
 
