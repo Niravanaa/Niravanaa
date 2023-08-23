@@ -1,6 +1,6 @@
 # Hi there, I'm Nirav 👋
 
-I'm a Software Engineering major at Concordia University. I love creating user friendly applications and learning new things.
+I'm a Software Engineering major at Concordia University. I love developing all kinds of software and learning new things.
 
 ## 🌱 I’m currently learning
 
