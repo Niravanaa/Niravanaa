@@ -2,6 +2,8 @@
 
 <p align="center">SWE @ <a href="https://www.concordia.ca">Concordia</a> | Intern at <a href="https://www.genetec.com">Genetec</a> | Seeking 2024 interships</p>
 
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+
 ## 🌱 I’m currently learning
 
 - C# for my upcoming internship at [Genetec](https://www.genetec.com/)
