@@ -1,6 +1,6 @@
 # Hi there, I'm Nirav 👋
 
-I'm a Software Engineering major at Concordia University. I love developing all kinds of software and learning new things.
+<p align="center">SWE @ <a href="https://www.concordia.ca">Concordia</a> | Intern at <a href="https://www.genetec.com">Genetec</a> | Seeking 2024 interships</p>
 
 ## 🌱 I’m currently learning
 
@@ -9,9 +9,14 @@ I'm a Software Engineering major at Concordia University. I love developing all 
 
 ## 🔭 I’m currently working on
 
-- A horror game built in Unity Engine with a colleague
-- A Minecraft redstone schematic editor with a colleague
-- School Related One-Day Projects
+- A Task Manager app built using WPF and C#
+- Random One-Day Projects
+- Writing a personal [tech blog](https://users.encs.concordia.ca/~pa_nir/NiravTechBlog/index.html)
+
+## 📚 I'm currently reading/studying
+
+- [Really Friendly Command Line Intro](https://hellowebbooks.com/learn-command-line/) by Tracy Osborn
+- [The Git and GitHub Bootcamp](https://www.udemy.com/course/git-and-github-bootcamp/) by Colt Steele
 
 ## 💬 Ask me about
 
@@ -26,4 +31,4 @@ I'm a Software Engineering major at Concordia University. I love developing all 
 
 ## ⚡ Fun fact
 
-Instead of using a rubber ducky to debug my code, I use an origami succulent! (ask [Denmar](https://github.com/getll))
+Instead of using a rubber ducky to help me debug my code, I use an origami succulent! (ask [Denmar](https://github.com/getll))
