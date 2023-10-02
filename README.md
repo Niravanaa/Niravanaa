@@ -17,8 +17,8 @@
 
 ## 📚 I'm currently reading/studying
 
-- [Really Friendly Command Line Intro](https://hellowebbooks.com/learn-command-line/) by Tracy Osborn
-- [The Git and GitHub Bootcamp](https://www.udemy.com/course/git-and-github-bootcamp/) by Colt Steele
+- [Apprenticeship Patterns](https://www.oreilly.com/library/view/apprenticeship-patterns/9780596806842/)
+- [The Git and GitHub Bootcamp](https://www.udemy.com/course/git-and-github-bootcamp)
 
 ## 💬 Ask me about
 
