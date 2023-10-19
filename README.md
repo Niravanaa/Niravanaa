@@ -1,4 +1,4 @@
-# Hi there, I'm Nirav 👋
+# Hi there, I'm Nirav 👋 ![](https://komarev.com/ghpvc/?username=niravanaa)
 
 <p align="center">SWE @ <a href="https://www.concordia.ca">Concordia</a> | Intern at <a href="https://www.genetec.com">Genetec</a> | Seeking 2024 interships</p>
 
