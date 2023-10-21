@@ -1,4 +1,4 @@
-# Hi there, I'm Nirav 👋 ![](https://komarev.com/ghpvc/?username=niravanaa)
+# Hi there, I'm Nirav 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNiravanaa&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <p align="center">SWE @ <a href="https://www.concordia.ca">Concordia</a> | Intern at <a href="https://www.genetec.com">Genetec</a> | Seeking 2024 interships</p>
 
