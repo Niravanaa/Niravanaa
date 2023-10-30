@@ -11,13 +11,13 @@
 
 ## 🔭 I’m currently working on
 
-- A Task Manager app built using WPF and C#
-- Random One-Day Projects
+- A Horror Game Built Using the Unity Engine
+- Refactoring My Current Projects
 - Writing a personal [tech blog](https://users.encs.concordia.ca/~pa_nir/NiravTechBlog/index.html)
 
 ## 📚 I'm currently reading/studying
 
-- [Apprenticeship Patterns](https://www.oreilly.com/library/view/apprenticeship-patterns/9780596806842/)
+- [The Art of Unit Testing with C#](https://www.manning.com/books/the-art-of-unit-testing-second-edition)
 - [The Git and GitHub Bootcamp](https://www.udemy.com/course/git-and-github-bootcamp)
 
 ## 💬 Ask me about
