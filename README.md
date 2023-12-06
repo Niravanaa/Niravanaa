@@ -17,8 +17,8 @@
 
 ## 📚 I'm currently reading/studying
 
-- [The Art of Unit Testing with C# by Roy Osherove](https://www.manning.com/books/the-art-of-unit-testing-second-edition)
-- [Vue - The Complete Guide by Maximilian Schwarzmüller](https://www.udemy.com/course/vuejs-2-the-complete-guide/)
+- [Grokking Algorithms by Aditya Y. Bhargava](https://www.manning.com/books/grokking-algorithms)
+- [Node.js - The Complete Guide by Maximillian Schwarzmuller](https://www.udemy.com/course/nodejs-the-complete-guide/)
 
 ## 💬 Ask me about
 
