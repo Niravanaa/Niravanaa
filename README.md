@@ -6,7 +6,7 @@
 
 ## 🌱 I’m currently learning
 
-- C# for my upcoming internship at [Genetec](https://www.genetec.com/)
+- C# for Unity Engine Game Development
 - Python to automate the little/repetitive things in life
 
 ## 🔭 I’m currently working on
