@@ -17,8 +17,8 @@
 
 ## 📚 I'm currently reading/studying
 
-- [Grokking Algorithms by Aditya Y. Bhargava](https://www.manning.com/books/grokking-algorithms)
-- [Node.js - The Complete Guide by Maximillian Schwarzmuller](https://www.udemy.com/course/nodejs-the-complete-guide/)
+- [Grokking Simplicity by Eric Normand](https://www.manning.com/books/grokking-simplicity)
+- [Svelte.js - The Complete Guide](https://www.udemy.com/course/sveltejs-the-complete-guide/)
 
 ## 💬 Ask me about
 
