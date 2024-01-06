@@ -28,7 +28,7 @@
 ## 📫 How to reach me
 
 - [niravp0703@gmail.com](mailto:niravp0703@gmail.com)
-- [My LinkedIn](www.linkedin.com/in/niravp0703)
+- [My LinkedIn](https://www.linkedin.com/in/niravp0703)
 - [My Portfolio Website](https://nirav-patel.vercel.app/)
 
 ## ⚡ Fun fact
