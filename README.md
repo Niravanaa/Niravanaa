@@ -17,8 +17,8 @@
 
 ## 📚 I'm currently reading/studying
 
-- [Grokking Simplicity by Eric Normand](https://www.manning.com/books/grokking-simplicity)
-- [Svelte.js - The Complete Guide](https://www.udemy.com/course/sveltejs-the-complete-guide/)
+- [The Object-Oriented Thought Process by Matt Weisfeld](https://www.oreilly.com/library/view/the-object-oriented-thought/9780135182130/)
+- [Complete C# Unity Game Developer 3D](https://www.udemy.com/course/unitycourse2/)
 
 ## 💬 Ask me about
 
