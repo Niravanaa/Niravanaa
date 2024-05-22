@@ -33,4 +33,4 @@
 
 ## ⚡ Fun fact
 
-Instead of using a rubber ducky to help me debug my code, I use an origami succulent! (ask [Denmar](https://github.com/getll))
+I use an origami succulent to help me debug my code! (ask [Denmar](https://github.com/getll))
