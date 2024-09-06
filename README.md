@@ -1,8 +1,19 @@
 # Hi there, I'm Nirav 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNiravanaa&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<p align="center">SWE Student @ <a href="https://www.concordia.ca">Concordia</a> | Prev-Intern @ <a href="https://www.dormakaba.com/us-en">Dormakaba</a> and <a href="https://www.genetec.com/">Genetec</a> | View my <a href="https://users.encs.concordia.ca/~pa_nir/NiravTechBlog/resumes.html">resume!</a></p>
+<p align="center">3rd Year SWE Student @ <a href="https://www.concordia.ca">Concordia</a> | Prev-Intern @ <a href="https://www.dormakaba.com/us-en">Dormakaba</a> and <a href="https://www.genetec.com/">Genetec</a> | View my <a href="https://users.encs.concordia.ca/~pa_nir/NiravTechBlog/resumes.html">resume!</a></p>
 
 <img align="right" src="/github-metrics.svg" alt="Metrics" width="400">
+
+<div id="user-content-toc">
+  <ul style="list-style: none;">
+    <summary>
+     <h2>💼 My Professional Experience</h2>
+    </summary>
+  </ul>
+</div>
+
+- Software Developer Intern - QA Automation @ Dormakaba (Summer 2024)
+- Software Developer Intern - SDK Specialist @ Genetec (Fall 2024)
 
 <div id="user-content-toc">
   <ul style="list-style: none;">
