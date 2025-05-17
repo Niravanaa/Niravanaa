@@ -12,8 +12,9 @@
   </ul>
 </div>
 
+- SWE Intern - SDK Specialist @ Genetec (Fall 2023)
 - SWE Intern - QA Automation @ Dormakaba (Summer 2024)
-- SWE Intern - SDK Specialist @ Genetec (Fall 2024)
+- SWE Intern - Web Developer @ Consoltec (Summer 2025)
 
 <div id="user-content-toc">
   <ul style="list-style: none;">
