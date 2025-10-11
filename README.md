@@ -24,8 +24,8 @@
   </ul>
 </div>
 
-- A [horror game](https://github.com/StoryTime-Productions/ProchaineStation) using the Unity Engine
-- Writing a [personal tech blog](https://users.encs.concordia.ca/~pa_nir/NiravTechBlog/index.html) using SvelteKit
+- A [pirate multiplayer survival game](https://github.com/StoryTime-Productions/Sailcore) using the Unity Engine
+- An interactive capstone project simulating bike networks and task dispatching
 
 <div id="user-content-toc">
   <ul style="list-style: none;">
