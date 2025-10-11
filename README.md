@@ -1,6 +1,6 @@
 # Hi there, I'm Nirav 👋 ![](https://komarev.com/ghpvc/?username=Niravanaa)
 
-<p align="center">3rd Year SWE Student @ <a href="https://www.concordia.ca">Concordia</a> | Prev-Intern @ <a href="https://www.dormakaba.com/us-en">Dormakaba</a>, <a href="https://www.genetec.com/">Genetec</a> and <a href="https://consoltec.ca/">Consoltec</a> | View my <a href="https://www.linkedin.com/in/niravp0703/details/featured/">resume!</a></p>
+<p align="center">Final Year SWE Student @ <a href="https://www.concordia.ca">Concordia</a> | Prev-Intern @ <a href="https://www.dormakaba.com/us-en">Dormakaba</a>, <a href="https://www.genetec.com/">Genetec</a> and <a href="https://consoltec.ca/">Consoltec</a> | View my <a href="https://www.linkedin.com/in/niravp0703/details/featured/">resume!</a></p>
 
 <img align="right" src="/github-metrics.svg" alt="Metrics" width="400">
 
