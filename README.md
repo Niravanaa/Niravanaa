@@ -24,8 +24,9 @@
   </ul>
 </div>
 
-- A [pirate multiplayer survival game](https://github.com/StoryTime-Productions/Sailcore) using the Unity Engine
-- An interactive capstone project simulating bike networks and task dispatching
+- A [pirate multiplayer survival game](https://github.com/StoryTime-Productions/Sailcore) using Unity.
+- An interactive capstone project simulating bike networks and task dispatching.
+- A computer graphics course at Concordia.
 
 <div id="user-content-toc">
   <ul style="list-style: none;">
