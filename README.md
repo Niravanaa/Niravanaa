@@ -1,6 +1,6 @@
 # Hi there, I'm Nirav 👋 ![](https://komarev.com/ghpvc/?username=Niravanaa)
 
-<p align="center">Newly Grad @ <a href="https://www.concordia.ca">Concordia</a> | Prev-Intern @ <a href="https://www.dormakaba.com/us-en">Dormakaba</a>, <a href="https://www.genetec.com/">Genetec</a> and <a href="https://consoltec.ca/">Consoltec</a> | View my <a href="https://www.linkedin.com/in/niravp0703/details/featured/">resume!</a></p>
+<p align="center">Automation Tester Trainee @ <a href="https://www.aircanada.com">Air Canada</a> | Concordia CS Grad | Prev-Intern @ <a href="https://www.dormakaba.com/us-en">Dormakaba</a>, <a href="https://www.genetec.com/">Genetec</a> and <a href="https://consoltec.ca/">Consoltec</a> | View my <a href="https://www.linkedin.com/in/niravp0703/details/featured/">resume!</a></p>
 
 <img align="right" src="/github-metrics.svg" alt="Metrics" width="400">
 
@@ -12,6 +12,7 @@
   </ul>
 </div>
 
+- Automation Tester Trainee @ Air Canada (2026 - Present)
 - SWE Intern - Web Developer @ Consoltec (Summer 2025)
 - SWE Intern - QA Automation @ Dormakaba (Summer 2024)
 - SWE Intern - SDK Specialist @ Genetec (Fall 2023)
@@ -25,8 +26,8 @@
 </div>
 
 - A [pirate multiplayer survival game](https://github.com/StoryTime-Productions/Sailcore) using Unity.
-- An interactive capstone project simulating bike networks and task dispatching.
-- A computer graphics course at Concordia.
+- [Khanazana](https://github.com/Niravanaa/Khanazana), a recipe app built with Next.js.
+- [Stweaks](https://github.com/StoryTime-Productions/Stweaks), a Minecraft plugin.
 
 <div id="user-content-toc">
   <ul style="list-style: none;">
